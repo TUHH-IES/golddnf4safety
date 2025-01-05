@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# Eclipse
+golddnf4safety/src/main/resources/
+*.project
+
 # BlueJ files
 *.ctxt
 
